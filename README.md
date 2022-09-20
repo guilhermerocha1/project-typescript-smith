@@ -32,6 +32,6 @@ npm install
   ```
     npm test
   ```
-## Preview
+## Projeto
 
-![prê-visualização do projeto](./public/picasion.com_05ea7c8d8084b6d35ed5abf5f56ec4df.gif)
+<img src="./public/picasion.com_05ea7c8d8084b6d35ed5abf5f56ec4df.gif" alt="projeto" width="500"/>
