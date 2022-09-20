@@ -1,7 +1,7 @@
 # Project TypeScript Smith
 
 # Contexto
-Projeto Desemvolvido com TypeScript, esse projeto faz e CRUD de uma api, tem uma conexeção com banco de dodos MySQL, e uma sistema de login com token.
+Projeto Desemvolvido com TypeScript, esse projeto faz e CRUD de uma api, tem uma conexão com banco de dodos MySQL, e uma sistema de login com token.
 
 ## Técnologias usadas
 
